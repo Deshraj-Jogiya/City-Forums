@@ -1,0 +1,14 @@
+# Logs and backups
+application/logs/*
+!application/logs/index.html
+application/cache/*
+!application/cache/index.html
+
+# User uploads
+uploads/*
+!uploads/index.html
+
+# IDE/OS files
+.idea/
+.vscode/
+.DS_Store

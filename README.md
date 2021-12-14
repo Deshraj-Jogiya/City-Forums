@@ -1,10 +1,10 @@
 # City Forums
 
-> Team project. This repository holds the team's code; the section below describes my part.
+> Team project. This repository holds the team's code; the section below lists the individual contribution.
 
 An online community and classifieds marketplace built on CodeIgniter 3 and MySQL by a team (Sep – Dec 2021).
 
-## My part
+## Individual contribution
 
 - Collaborated on the community-engagement and classified-ad features of the CodeIgniter 3 app.
 - The team's reported result: $10,000 in classified-ad revenue through targeted marketing.
